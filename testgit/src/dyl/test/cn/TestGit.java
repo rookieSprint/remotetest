@@ -6,6 +6,7 @@ public class TestGit {
 		// TODO Auto-generated method stub
 		System.out.println("----");
 		System.out.println("SSH");
+		System.out.println("test  SSH  key  push");
 	}
 
 }
