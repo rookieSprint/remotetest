@@ -7,6 +7,7 @@ public class TestGit {
 		System.out.println("----");
 		System.out.println("SSH");
 		System.out.println("test  SSH  key  push");
+		System.out.println("test  SSH  key  fetch");
 	}
 
 }
